@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm TOLGA BOROGLU</h1>
 <h3 align="center">I am learning Data Science</h3>
 
-- 🔭 I’m currently working on [student-automation-in-python](https://github.com/tolgaboroglu/student-automation-in-python)
-
-- 🌱 I’m currently learning **Data Science,ML,Database**
-
-- 👯 I’m improving [https://github.com/tolgaboroglu/fake-news-with-python](https://github.com/tolgaboroglu/fake-news-with-python)
-
-- I'm learning with projects [sign_login](https://github.com/tolgaboroglu/sign_login)
-
+- My name is Tolga Boroğlu,I am 23 years old.I am living in Mersin/Tarsus. I am a 3nd year student at Adana Science and Technology University.My department is Management Information Systems.I speak English as a foreign language .Usually,I am interested in data science and I am learning data science.  
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/tolgaboroglu](https://github.com/tolgaboroglu)
 
 - 📝 I regularly write articles on [https://www.teknovblog.com/](https://www.teknovblog.com/)
